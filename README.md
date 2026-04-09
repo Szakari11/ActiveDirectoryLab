@@ -1,20 +1,20 @@
-<h1>JWipe - Disk Sanitization</h1>
+<h1> Active Directory Project</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+The Active Directory project involved setting up a Windows Server 2019 environment within a virtual machine and configuring it as a domain controller. The goal was to create and manage a centralized network system where users, computers, and resources could be organized and controlled efficiently. Key tasks included installing the server operating system, promoting the server to a domain controller, creating user accounts, organizing them into groups, and applying basic administrative policies. This project demonstrated how Active Directory supports network security, user authentication, and resource management in a real-world IT environment.
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Oracle VM VirtualBox</b> 
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Server 2019 Iso</b>
+- <b>Windows 10</b>
 
 <h2>Program walk-through:</h2>
 
